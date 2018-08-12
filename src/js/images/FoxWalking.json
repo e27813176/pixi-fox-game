@@ -1,0 +1,172 @@
+{"frames": {
+
+"Walking_00000.png":
+{
+	"frame": {"x":1,"y":375,"w":117,"h":182},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":3,"w":117,"h":182},
+	"sourceSize": {"w":200,"h":200}
+},
+"Walking_00001.png":
+{
+	"frame": {"x":361,"y":187,"w":117,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":3,"w":117,"h":183},
+	"sourceSize": {"w":200,"h":200}
+},
+"Walking_00002.png":
+{
+	"frame": {"x":361,"y":372,"w":117,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":3,"w":117,"h":183},
+	"sourceSize": {"w":200,"h":200}
+},
+"Walking_00003.png":
+{
+	"frame": {"x":361,"y":1,"w":117,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":3,"w":117,"h":184},
+	"sourceSize": {"w":200,"h":200}
+},
+"Walking_00004.png":
+{
+	"frame": {"x":241,"y":1,"w":118,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":3,"w":118,"h":184},
+	"sourceSize": {"w":200,"h":200}
+},
+"Walking_00005.png":
+{
+	"frame": {"x":1,"y":1,"w":118,"h":185},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":2,"w":118,"h":185},
+	"sourceSize": {"w":200,"h":200}
+},
+"Walking_00006.png":
+{
+	"frame": {"x":1,"y":188,"w":118,"h":185},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":2,"w":118,"h":185},
+	"sourceSize": {"w":200,"h":200}
+},
+"Walking_00007.png":
+{
+	"frame": {"x":121,"y":1,"w":118,"h":185},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":2,"w":118,"h":185},
+	"sourceSize": {"w":200,"h":200}
+},
+"Walking_00008.png":
+{
+	"frame": {"x":241,"y":187,"w":118,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":2,"w":118,"h":184},
+	"sourceSize": {"w":200,"h":200}
+},
+"Walking_00009.png":
+{
+	"frame": {"x":121,"y":188,"w":118,"h":185},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":1,"w":118,"h":185},
+	"sourceSize": {"w":200,"h":200}
+},
+"Walking_00010.png":
+{
+	"frame": {"x":241,"y":373,"w":118,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":1,"w":118,"h":184},
+	"sourceSize": {"w":200,"h":200}
+},
+"Walking_00011.png":
+{
+	"frame": {"x":121,"y":188,"w":118,"h":185},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":1,"w":118,"h":185},
+	"sourceSize": {"w":200,"h":200}
+},
+"Walking_00012.png":
+{
+	"frame": {"x":241,"y":187,"w":118,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":2,"w":118,"h":184},
+	"sourceSize": {"w":200,"h":200}
+},
+"Walking_00013.png":
+{
+	"frame": {"x":121,"y":1,"w":118,"h":185},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":2,"w":118,"h":185},
+	"sourceSize": {"w":200,"h":200}
+},
+"Walking_00014.png":
+{
+	"frame": {"x":1,"y":188,"w":118,"h":185},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":2,"w":118,"h":185},
+	"sourceSize": {"w":200,"h":200}
+},
+"Walking_00015.png":
+{
+	"frame": {"x":1,"y":1,"w":118,"h":185},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":2,"w":118,"h":185},
+	"sourceSize": {"w":200,"h":200}
+},
+"Walking_00016.png":
+{
+	"frame": {"x":241,"y":1,"w":118,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":3,"w":118,"h":184},
+	"sourceSize": {"w":200,"h":200}
+},
+"Walking_00017.png":
+{
+	"frame": {"x":361,"y":1,"w":117,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":3,"w":117,"h":184},
+	"sourceSize": {"w":200,"h":200}
+},
+"Walking_00018.png":
+{
+	"frame": {"x":361,"y":372,"w":117,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":3,"w":117,"h":183},
+	"sourceSize": {"w":200,"h":200}
+},
+"Walking_00019.png":
+{
+	"frame": {"x":361,"y":187,"w":117,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":3,"w":117,"h":183},
+	"sourceSize": {"w":200,"h":200}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "FoxWalking.png",
+	"format": "RGBA8888",
+	"size": {"w":479,"h":558},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:64d42bf42e5b01889a198db6022ca62f:62f7c15cbed40bc7143ecc1eaaf93b9f:22bb357f017144f753b946c650267e37$"
+}
+}
