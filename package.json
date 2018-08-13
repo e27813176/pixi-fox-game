@@ -3,7 +3,7 @@
   "description": "PixiJS webpack example project",
   "version": "0.0.1",
   "scripts": {
-    "dev": "webpack-dev-server --watch --progress --colors --env=dev",
+    "dev": "webpack --watch --progress --colors --env=dev",
     "prod": "webpack --env=prod"
   },
   "author": "arikanmstf",

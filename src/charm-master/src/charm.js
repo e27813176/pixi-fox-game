@@ -307,16 +307,16 @@ export default class Charm {
   //1. Simple tweens
 
   //`fadeOut`
-  fadeOut(sprite, frames = 60) {
+  fadeOut(sprite, frames = 60, a = 0) {
     return this.tweenProperty(
-      sprite, "alpha", sprite.alpha, 0, frames, "sine"
+      sprite, "alpha", sprite.alpha, a, frames, "sine"
     );
   }
 
   //`fadeIn`
-  fadeIn(sprite, frames = 60) {
+  fadeIn(sprite, frames = 60, a = 1) {
     return this.tweenProperty(
-      sprite, "alpha", sprite.alpha, 1, frames, "sine"
+      sprite, "alpha", sprite.alpha, a, frames, "sine"
     );
   }
 

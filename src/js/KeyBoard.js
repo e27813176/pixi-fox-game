@@ -1,4 +1,4 @@
-export const keyBoard = (keyCode) => {
+const keyBoard = (keyCode) => {
   let key = {};
   key.code = keyCode;
   key.isDown = false;
@@ -33,3 +33,20 @@ export const keyBoard = (keyCode) => {
   );
   return key;
 }
+
+export const setKeyBoard = () => {
+  let left = keyBoard(37);
+  let right = keyBoard(39);
+  left.press = () => {
+    console.log('leftPress');
+  };
+  left.release = () => {
+    console.log('leftRelease');
+  };
+  right.press = () => {
+    console.log('rightPress');
+  };
+  right.release = () => {
+    console.log('rightRelease');
+  };
+} 
