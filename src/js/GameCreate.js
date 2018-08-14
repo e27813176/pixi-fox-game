@@ -1,9 +1,8 @@
 import { UIPanel } from './UIPanel/UIPanel';
 import FishScene from './Scenes/FishingScene'
-import { initGameLayer } from './GameLayerInit';
-import { initFox } from './Fox';
 import { SceneManager } from './Scenes/SceneManager'
 import { app } from '.';
+import { BlackScene } from './Scenes/TransitionScene';
 
 export const createGameObj = (loader, res) => {
 	const UI = new UIPanel(res);
@@ -11,10 +10,7 @@ export const createGameObj = (loader, res) => {
 
 	app.stage.addChild(FishingScene);
 	app.stage.addChild(UI);
-
-	initGameLayer(UI);
+	app.stage.addChild(BlackScene);
 
 	SceneManager.openScene(FishingScene);
-	initFox(res);
-
 }

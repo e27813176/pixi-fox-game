@@ -1,7 +1,5 @@
 // import * as PIXI from 'pixi.js';
-
 import { app } from '.';
-import { explosion } from './FX/explosion';
 import { initPlugin, charm } from './initPlugins';
 import { GameLoading } from './GameLoading';
 
